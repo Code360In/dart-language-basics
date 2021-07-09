@@ -15,7 +15,7 @@ main() {
   bool isExpensive = false;
 
   print(isFragile && isExpensive);
-  print(isFragile || isExpensive);
+  print(isExpensive || isFragile);
   print(isFragile ^ isExpensive);
   print(isFragile == isExpensive);
   print(isFragile != isExpensive);

@@ -26,6 +26,11 @@ So to run any code of this repository, open the specifically file and on your ke
 Ctrl + Alt + N
 ```
 
+If you need to run the code at terminal, just use 
+``
+dart <name-of-the-file>.<extension>
+``
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
